@@ -1,8 +1,12 @@
 [package]
 name = "rustLib"
 version = "0.1.0"
+authors = ["Karthik Rathinavel"]
+description = "Sample library in rust"
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/hkshitesh/rustlibdemo"
+repository = "https://github.com/hkshitesh/rustlibdemo"
 edition = "2021"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+readme = "README.md"
 
 [dependencies]
