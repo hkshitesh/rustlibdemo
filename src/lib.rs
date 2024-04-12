@@ -1,3 +1,3 @@
-fn rust_function(){
+pub fn rust_function(){
     println!("I am a rust library function");
   }
